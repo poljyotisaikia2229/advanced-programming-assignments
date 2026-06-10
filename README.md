@@ -1,4 +1,4 @@
-Assignment 1: Write a C program to analyze time complexities in constant time, linear time and quadratic time. Increase the size of input to check the time consumed.Assignment 19: Simple Digital Counter & Theme Toggle App 
+Assignment 19: Simple Digital Counter & Theme Toggle App 
 
 Build a single-screen mobile application using React Native. The app functions as a digital counter that allows users to increment, decrement, and reset a number displayed on the screen. To make the app more interactive, it must also include a "Theme Toggle" button that switches the screen's background and text colors between a Light Mode and a Dark Mode.
 
